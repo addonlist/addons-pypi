@@ -9,5 +9,5 @@ setup(
     url = 'https://github.com/addonlist/addons-pypi',   # use the URL to the github repo
     download_url = 'https://github.com/addonlist/addons-pypi/tarball/0.0.1', # download tar package, could be binary
     keywords = ['addons', 'startup', 'email', 'analytics'], # keywords
-    classifiers = [],
+    classifiers = ["Development Status :: 1 - Planning"],
 )
